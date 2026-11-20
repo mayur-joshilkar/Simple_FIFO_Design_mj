@@ -1,4 +1,4 @@
-# Parameterized Synchronous FIFO -- Verilog RTL
+# Parameterized Synchronous FIFO - Verilog RTL
 
 A basic parameterized synchronous FIFO (First-In, First-Out) implemented
 in Verilog HDL, with a separate testbench for functional simulation.
